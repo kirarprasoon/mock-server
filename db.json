@@ -31,7 +31,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-01-09T23:15:30.000Z",
+      "date_posted": "2020-01-09",
       "is_active": true,
       "location": {
         "geometry": {
@@ -56,7 +56,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -81,7 +81,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -106,7 +106,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -131,7 +131,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -156,7 +156,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -174,56 +174,6 @@
       ],
       "job_type": "Internship",
       "experience_level": "Fresher"
-    },
-    {
-      "id": "8cefa9b1-11ff-4625-9f4e-4715b3e21fbb",
-      "title": "Lead Product Designer",
-      "address": "Hitech City, Hyderabad, Telangana",
-      "company_name": "ZeMoSo",
-      "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
-      "is_active": true,
-      "location": {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            125.6,
-            10.1
-          ]
-        }
-      },
-      "description": "random",
-      "requirements": [
-        "random1",
-        "random2"
-      ],
-      "job_type": "Remote",
-      "experience_level": "Mid-Level"
-    },
-    {
-      "id": "8cefa9b1-11ff-4625-9f4e-4715b3e21fbb",
-      "title": "Lead Product Designer",
-      "address": "Hitech City, Hyderabad, Telangana",
-      "company_name": "ZeMoSo",
-      "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
-      "is_active": true,
-      "location": {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            125.6,
-            10.1
-          ]
-        }
-      },
-      "description": "random",
-      "requirements": [
-        "random1",
-        "random2"
-      ],
-      "job_type": "Remote",
-      "experience_level": "Executive"
     }
   ],
   "saved-jobs": [
@@ -231,9 +181,9 @@
       "id": "7b23d31d-fbef-4f95-b2be-a3683022f39a",
       "title": "Lead Product Designer",
       "address": "Hitech City, Hyderabad, Telangana",
-      "company_name": "ZeMoSo",
+      "company_name": "Google",
       "company_logo": "",
-      "date_posted": "2021-01-03T22:15:30.000Z",
+      "date_posted": "2021-01-03",
       "is_active": true,
       "location": {
         "geometry": {
@@ -258,7 +208,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-01-09T23:15:30.000Z",
+      "date_posted": "2020-01-09",
       "is_active": true,
       "location": {
         "geometry": {
@@ -283,7 +233,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -308,7 +258,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -333,7 +283,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -358,7 +308,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -383,7 +333,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -408,7 +358,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
@@ -433,7 +383,7 @@
       "address": "Hitech City, Hyderabad, Telangana",
       "company_name": "ZeMoSo",
       "company_logo": "",
-      "date_posted": "2020-08-19T23:15:30.000Z",
+      "date_posted": "2020-08-19",
       "is_active": true,
       "location": {
         "geometry": {
